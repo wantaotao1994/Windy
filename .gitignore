@@ -11,6 +11,7 @@ NuGet.exe
 .nupkgs/
 .docstats
 *.ide/
+*.idea/
 *.lock.json
 *.coverage
 Test.DB.*
