@@ -42,7 +42,7 @@ namespace Windy.Core
 
             columList.Remove(columList.Length - 1, 1);
             paramList.Remove(paramList.Length - 1, 1);
-            string sqlCommand = $"insert into {tableName}  ({columList}) values ({paramList}) ";
+            string sqlCommand = $"insert into [{tableName}]  ({columList}) values ({paramList}) ";
 
 
             command.CommandText = sqlCommand;
@@ -75,7 +75,7 @@ namespace Windy.Core
 
             columList.Remove(columList.Length - 1, 1);
             paramList.Remove(paramList.Length - 1, 1);
-            string sqlCommand = $"insert into {tableName}  ({columList}) values ({paramList}) ";
+            string sqlCommand = $"insert into [{tableName}]  ({columList}) values ({paramList}) ";
 
 
             command.CommandText = sqlCommand;
@@ -116,7 +116,7 @@ namespace Windy.Core
                 columList.Append(  "@"+item.Key + ",");
             }
             columList.Remove(columList.Length - 1, 1);
-            string sql = $"update {tableName}  set  {columList} where  {condition}  ";
+            string sql = $"update [{tableName}]  set  {columList} where  {condition}  ";
             
             
             IDbCommand  command=  GetExcuteCommand(ref dbConnection,sql,dic);
@@ -153,7 +153,7 @@ namespace Windy.Core
             string condition = "";
             string tableName = typeof(T).GetTableNameAttributeValue();
             dic = expressHelper.GetLambdaDbParams(out condition);
-            string sql = $"select top 1 * from  {tableName} where  {condition}  ";
+            string sql = $"select top 1 * from  [{tableName}] where  {condition}  ";
 
             bool wasClosed = dbConnection.State == ConnectionState.Closed;
 
@@ -189,7 +189,7 @@ namespace Windy.Core
             string condition = "";
             string tableName = typeof(T).GetTableNameAttributeValue();
             dic = expressHelper.GetLambdaDbParams(out condition);
-            string sql = $"select  * from  {tableName} where  {condition}  ";
+            string sql = $"select  * from  [{tableName}] where  {condition}  ";
 
             bool wasClosed = dbConnection.State == ConnectionState.Closed;
 
@@ -227,7 +227,7 @@ namespace Windy.Core
             string condition = "";
             string tableName = typeof(T).GetTableNameAttributeValue();
             dic = expressHelper.GetLambdaDbParams(out condition);
-            string sql = $"delete  from  {tableName} where  {condition}  ";
+            string sql = $"delete  from  [{tableName}] where  {condition}  ";
 
             bool wasClosed = dbConnection.State == ConnectionState.Closed;
 
