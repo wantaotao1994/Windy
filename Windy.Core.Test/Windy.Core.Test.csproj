@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Windy.Core\Windy.Core.csproj">
+      <Project>{F5C4A1EA-C39C-4E13-A2D5-3CF729F0A098}</Project>
+      <Name>Windy.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.4" />
+    <PackageReference Include="MySql.Data" Version="6.10.6" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.4.2" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8266acc6-2357-4480-8856-0c754217fa38" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Windy.Core.Test/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+              <folding>
+                <marker date="1518080383478" expanded="false" signature="6:87" ph="..." />
+                <marker date="1518080383478" expanded="true" signature="114:1784" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="134:1301" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="180:1295" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="339:1285" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="537:697" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="819:1003" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="1324:1782" ph="{...}" />
+                <marker date="1518080383478" expanded="true" signature="1349:1398" ph="///  ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySqlConnection.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlConnection.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySqlCommand.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlCommand.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySqlCommandBuilder.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlCommandBuilder.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4522">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MySqlHelper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlHelper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DealExpressHelper.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Windy.Core/DealExpressHelper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+              <folding>
+                <marker date="1518072645841" expanded="false" signature="6:97" ph="..." />
+                <marker date="1518072645841" expanded="true" signature="119:6641" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="156:6639" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="211:261" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="568:710" ph="/// 返回解析 lambda后面的语句 ... " />
+                <marker date="1518072645841" expanded="true" signature="795:1956" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="1074:1851" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="1120:1404" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="1425:1837" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="2007:3079" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="2060:2196" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="2241:2331" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="2377:2469" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="2515:2701" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="2750:3009" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3026:3069" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3143:3201" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3273:3891" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3393:3452" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3485:3577" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3617:3779" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3796:3855" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="3957:4165" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="4233:5339" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="4549:4712" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="4835:5094" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="5111:5192" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="5204:5329" ph="/* return attribute.Length &gt; 0 ? attribute[0].ColumnName : exp.Member.Name; ... */" />
+                <marker date="1518072645841" expanded="true" signature="5398:6371" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="5436:6338" ph="{...}" />
+                <marker date="1518072645841" expanded="true" signature="6427:6633" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateTime.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/73/769083b5/DateTime.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="667" column="8" lean-forward="false" selection-start-line="667" selection-start-column="8" selection-end-line="667" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.config.transform" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/app.config.transform">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Windy.Core/DbManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="107" column="89" lean-forward="false" selection-start-line="107" selection-start-column="89" selection-end-line="107" selection-end-column="89" />
+              <folding>
+                <marker date="1518078472394" expanded="false" signature="6:219" ph="..." />
+                <marker date="1518078472394" expanded="true" signature="241:9980" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="277:9978" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="292:509" ph="/// 添加实体 ... " />
+                <marker date="1518078472394" expanded="true" signature="616:2094" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="1214:1659" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="2186:3613" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="2758:3203" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="3623:3892" ph="/// 更新实体 ... " />
+                <marker date="1518078472394" expanded="true" signature="4033:5692" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="4752:4911" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="5210:5621" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="5703:5973" ph="/// 得到第一个 ... " />
+                <marker date="1518078472394" expanded="true" signature="6102:6969" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="6813:6958" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="6980:7197" ph="/// 得到所有 ... " />
+                <marker date="1518078472394" expanded="true" signature="7341:8212" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="8047:8201" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="8224:8457" ph="/// 删除某一条记录 ... " />
+                <marker date="1518078472394" expanded="true" signature="8572:9263" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="9405:9972" ph="{...}" />
+                <marker date="1518078472394" expanded="true" signature="9573:9931" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DbParam.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Windy.Core/DbParam.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+              <folding>
+                <marker date="1518080191735" expanded="true" signature="40:361" ph="{...}" />
+                <marker date="1518080191735" expanded="true" signature="67:359" ph="{...}" />
+                <marker date="1518080191735" expanded="true" signature="262:353" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Windy.Core/DealExpressHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/95/29fb073c/IDataParameter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/7b/75968c32/Signature.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA7FDA93-2255-4758-B98F-316893C261BD/3c/d989b75d/LambdaExpression.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/b8/2cc793f8/RuntimeModule.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/73/769083b5/DateTime.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core/DbManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/3c/78490e42/RuntimePropertyInfo.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core.Test/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/98/278a0d0d/DbCommand.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core/TableNameAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core/CustomAttributeHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core/ColumnNameAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/e8/2d1065c1/IDbConnection.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54A52BB1-7CFD-4648-8B60-12B240E5856F/1a/5dd11e5a/SqlConnection.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/af/3f2e6024/PseudoCustomAttribute.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC55A19B-7E7E-4A09-929B-96E8AE2CE54C/ca/b297db4b/DbCommand.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54A52BB1-7CFD-4648-8B60-12B240E5856F/33/37c2e649/SqlCommand.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC43C2BE-65FA-4BD1-8D20-E24028A2FCE1/74/07c8a3ea/SqlCommand.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC55A19B-7E7E-4A09-929B-96E8AE2CE54C/37/f33929dd/DbParameter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/08/5328ad77/CustomAttribute.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/89/aed76cb0/Func`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC43C2BE-65FA-4BD1-8D20-E24028A2FCE1/0c/9a35a9c7/SqlParameter.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/e0/64e83ad8/RuntimeType.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/6d/a9d6ee76/Dictionary`2.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/cb/5ff600b3/IDataParameterCollection.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA7FDA93-2255-4758-B98F-316893C261BD/16/30394c7b/PropertyExpression.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/8b/d409bab6/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/db/82dc0b81/IDbCommand.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core/TypeHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/ec/82141140/DbType.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA7FDA93-2255-4758-B98F-316893C261BD/0d/d383d1d6/MemberExpression.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14A4A2F4-CE6D-42B9-9746-97DDD70917A8/d6/f302a16d/Hashtable.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/e1/fc8476e2/PropertyInfo.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/dd/f2a11e49/RuntimeAssembly.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Windy.Core/DbParam.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Windy.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core/ColumnNameAttribute.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core/DealExpressHelper.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core/CustomAttributeHelper.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core/TypeHelper.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core/DbManager.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core/DbParam.cs" />
+        <option value="$PROJECT_DIR$/Windy.Core.Test/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Windy (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Windy.Core.Test">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+    <configuration name="Windy.Core.Test" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Windy.Core.Test/bin/Debug/netcoreapp2.0/Windy.Core.Test.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Windy.Core.Test" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Windy.Core.Test/Windy.Core.Test.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+      <item index="1" class="java.lang.String" itemvalue=".NET Project.Windy.Core.Test" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue=".NET Project.Windy.Core.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8266acc6-2357-4480-8856-0c754217fa38" name="Default" comment="" />
+      <created>1517470941788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517470941788</updated>
+      <workItem from="1517470944242" duration="1548000" />
+      <workItem from="1517628446249" duration="48014000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="49562000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="817" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40581718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="38" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>typeof(DynamicObject)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>item.GetType()</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1517470978488" expanded="true" signature="64:76" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/TypeHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <marker date="1518076268849" expanded="true" signature="6:187" ph="..." />
+            <marker date="1518076268849" expanded="true" signature="209:11065" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="246:11063" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="400:457" ph="/// type map ... " />
+            <marker date="1518076268849" expanded="true" signature="564:2307" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2319:2502" ph="/// 将datareader 转换成  对象 ... " />
+            <marker date="1518076268849" expanded="true" signature="2575:5230" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2628:5188" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2845:2943" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2964:3134" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3255:5142" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3424:5124" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3500:5102" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3763:3995" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4049:4268" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4301:5076" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4512:4637" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4717:4863" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4900:5046" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5317:8079" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5551:5637" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5654:5806" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5837:8043" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6108:7995" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6277:7977" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6353:7955" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6616:6848" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6902:7121" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7154:7929" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7365:7490" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7570:7716" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7753:7899" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8162:8724" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8392:8682" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8492:8668" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8734:8860" ph="/// 得到 列名 跟值 ... " />
+            <marker date="1518076268849" expanded="true" signature="8937:10368" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9115:9201" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9218:9369" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9515:10326" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9613:10312" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9903:10148" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9984:10126" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10174:10294" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10378:10550" ph="///  ... " />
+            <marker date="1518076268849" expanded="true" signature="10625:10796" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10666:10723" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10807:10927" ph="///  ... " />
+            <marker date="1518076268849" expanded="true" signature="10982:11057" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/DbManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <marker date="1518078472394" expanded="false" signature="6:219" ph="..." />
+            <marker date="1518078472394" expanded="true" signature="241:9980" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="277:9978" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="292:509" ph="/// 添加实体 ... " />
+            <marker date="1518078472394" expanded="true" signature="616:2094" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="1214:1659" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="2186:3613" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="2758:3203" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="3623:3892" ph="/// 更新实体 ... " />
+            <marker date="1518078472394" expanded="true" signature="4033:5692" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="4752:4911" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="5210:5621" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="5703:5973" ph="/// 得到第一个 ... " />
+            <marker date="1518078472394" expanded="true" signature="6102:6969" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="6813:6958" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="6980:7197" ph="/// 得到所有 ... " />
+            <marker date="1518078472394" expanded="true" signature="7341:8212" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="8047:8201" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="8224:8457" ph="/// 删除某一条记录 ... " />
+            <marker date="1518078472394" expanded="true" signature="8572:9263" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="9405:9972" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="9573:9931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/98/278a0d0d/DbCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="138" column="24" lean-forward="false" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/e8/2d1065c1/IDbConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="26" column="15" lean-forward="false" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+          <folding>
+            <marker date="1517631671981" expanded="true" signature="0:323" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1517631671981" expanded="true" signature="346:763" ph="{...}" />
+            <marker date="1517631671981" expanded="true" signature="395:761" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54A52BB1-7CFD-4648-8B60-12B240E5856F/1a/5dd11e5a/SqlConnection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="455" column="8" lean-forward="false" selection-start-line="455" selection-start-column="8" selection-end-line="455" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <marker date="1517470978488" expanded="true" signature="64:76" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/14A4A2F4-CE6D-42B9-9746-97DDD70917A8/d6/f302a16d/Hashtable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/cb/5ff600b3/IDataParameterCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC55A19B-7E7E-4A09-929B-96E8AE2CE54C/37/f33929dd/DbParameter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC43C2BE-65FA-4BD1-8D20-E24028A2FCE1/0c/9a35a9c7/SqlParameter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="48" lean-forward="false" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/95/29fb073c/IDataParameter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/ec/82141140/DbType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/6d/a9d6ee76/Dictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="190" column="8" lean-forward="false" selection-start-line="190" selection-start-column="8" selection-end-line="190" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/7b/75968c32/Signature.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="71" column="8" lean-forward="false" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/e1/fc8476e2/PropertyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="88" column="18" lean-forward="false" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7487D26B-83CA-4658-8D91-4CFB1903215E/db/82dc0b81/IDbCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <marker date="1517902836521" expanded="true" signature="0:320" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1517902836521" expanded="true" signature="343:940" ph="{...}" />
+            <marker date="1517902836521" expanded="true" signature="389:938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CC55A19B-7E7E-4A09-929B-96E8AE2CE54C/ca/b297db4b/DbCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="32" lean-forward="false" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BC43C2BE-65FA-4BD1-8D20-E24028A2FCE1/74/07c8a3ea/SqlCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="44" lean-forward="false" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/ColumnNameAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1517892211748" expanded="true" signature="35:419" ph="{...}" />
+            <marker date="1517892211748" expanded="true" signature="137:417" ph="{...}" />
+            <marker date="1517892211748" expanded="true" signature="310:410" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/54A52BB1-7CFD-4648-8B60-12B240E5856F/33/37c2e649/SqlCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="502" column="13" lean-forward="false" selection-start-line="502" selection-start-column="13" selection-end-line="502" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA7FDA93-2255-4758-B98F-316893C261BD/3c/d989b75d/LambdaExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding>
+            <marker date="1517991695306" expanded="true" signature="0:348" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1517991695306" expanded="false" signature="356:602" ph="..." />
+            <marker date="1517991695306" expanded="true" signature="637:3221" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="778:3219" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="869:906" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="944:1012" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="960:1006" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1158:1234" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1174:1228" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1297:1378" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1313:1372" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1402:1470" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1418:1464" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1508:1576" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1524:1570" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1604:1669" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1620:1663" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1697:1790" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1713:1784" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1816:1888" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1832:1882" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1928:1988" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="1944:1982" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2102:2153" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2251:2302" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2398:2449" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2522:2596" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2538:2590" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2667:2746" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2683:2740" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2777:2823" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="2879:3036" ph="{...}" />
+            <marker date="1517991695306" expanded="true" signature="3174:3215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA7FDA93-2255-4758-B98F-316893C261BD/0d/d383d1d6/MemberExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DA7FDA93-2255-4758-B98F-316893C261BD/16/30394c7b/PropertyExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="6" lean-forward="false" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/af/3f2e6024/PseudoCustomAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="294" column="6" lean-forward="false" selection-start-line="294" selection-start-column="6" selection-end-line="294" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/3c/78490e42/RuntimePropertyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="188" column="6" lean-forward="false" selection-start-line="188" selection-start-column="6" selection-end-line="188" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/b8/2cc793f8/RuntimeModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="430" column="6" lean-forward="false" selection-start-line="430" selection-start-column="6" selection-end-line="430" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/dd/f2a11e49/RuntimeAssembly.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="543" column="6" lean-forward="false" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/08/5328ad77/CustomAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="217" column="6" lean-forward="false" selection-start-line="217" selection-start-column="6" selection-end-line="217" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/8b/d409bab6/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="192" column="6" lean-forward="false" selection-start-line="192" selection-start-column="6" selection-end-line="192" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/e0/64e83ad8/RuntimeType.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="1844" column="6" lean-forward="false" selection-start-line="1844" selection-start-column="6" selection-end-line="1844" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/89/aed76cb0/Func`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/CustomAttributeHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="66" column="1" lean-forward="false" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <marker date="1518074396734" expanded="false" signature="6:123" ph="..." />
+            <marker date="1518074396734" expanded="true" signature="145:1725" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="193:1723" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="208:267" ph="/// Cache Data ... " />
+            <marker date="1518074396734" expanded="true" signature="379:511" ph="/// 获取tablename ... " />
+            <marker date="1518074396734" expanded="true" signature="583:1034" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="823:909" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="926:993" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="1047:1179" ph="/// 获取columname ... " />
+            <marker date="1518074396734" expanded="true" signature="1262:1717" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="1510:1593" ph="{...}" />
+            <marker date="1518074396734" expanded="true" signature="1610:1680" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/web.config.transform">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/TypeHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="212" column="13" lean-forward="false" selection-start-line="212" selection-start-column="13" selection-end-line="212" selection-end-column="13" />
+          <folding>
+            <marker date="1518076268849" expanded="true" signature="6:187" ph="..." />
+            <marker date="1518076268849" expanded="true" signature="209:11065" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="246:11063" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="400:457" ph="/// type map ... " />
+            <marker date="1518076268849" expanded="true" signature="564:2307" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2319:2502" ph="/// 将datareader 转换成  对象 ... " />
+            <marker date="1518076268849" expanded="true" signature="2575:5230" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2628:5188" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2845:2943" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="2964:3134" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3255:5142" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3424:5124" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3500:5102" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="3763:3995" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4049:4268" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4301:5076" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4512:4637" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4717:4863" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="4900:5046" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5317:8079" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5551:5637" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5654:5806" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="5837:8043" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6108:7995" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6277:7977" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6353:7955" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6616:6848" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="6902:7121" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7154:7929" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7365:7490" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7570:7716" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="7753:7899" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8162:8724" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8392:8682" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8492:8668" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="8734:8860" ph="/// 得到 列名 跟值 ... " />
+            <marker date="1518076268849" expanded="true" signature="8937:10368" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9115:9201" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9218:9369" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9515:10326" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9613:10312" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9903:10148" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="9984:10126" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10174:10294" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10378:10550" ph="///  ... " />
+            <marker date="1518076268849" expanded="true" signature="10625:10796" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10666:10723" ph="{...}" />
+            <marker date="1518076268849" expanded="true" signature="10807:10927" ph="///  ... " />
+            <marker date="1518076268849" expanded="true" signature="10982:11057" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/TableNameAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <marker date="1517635206531" expanded="true" signature="49:316" ph="{...}" />
+            <marker date="1517635206531" expanded="true" signature="142:314" ph="{...}" />
+            <marker date="1517635206531" expanded="true" signature="248:308" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/DbManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="107" column="89" lean-forward="false" selection-start-line="107" selection-start-column="89" selection-end-line="107" selection-end-column="89" />
+          <folding>
+            <marker date="1518078472394" expanded="false" signature="6:219" ph="..." />
+            <marker date="1518078472394" expanded="true" signature="241:9980" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="277:9978" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="292:509" ph="/// 添加实体 ... " />
+            <marker date="1518078472394" expanded="true" signature="616:2094" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="1214:1659" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="2186:3613" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="2758:3203" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="3623:3892" ph="/// 更新实体 ... " />
+            <marker date="1518078472394" expanded="true" signature="4033:5692" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="4752:4911" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="5210:5621" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="5703:5973" ph="/// 得到第一个 ... " />
+            <marker date="1518078472394" expanded="true" signature="6102:6969" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="6813:6958" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="6980:7197" ph="/// 得到所有 ... " />
+            <marker date="1518078472394" expanded="true" signature="7341:8212" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="8047:8201" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="8224:8457" ph="/// 删除某一条记录 ... " />
+            <marker date="1518078472394" expanded="true" signature="8572:9263" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="9405:9972" ph="{...}" />
+            <marker date="1518078472394" expanded="true" signature="9573:9931" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C377C7D8-4218-4776-B33D-E3E442C93BBF/73/769083b5/DateTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="667" column="8" lean-forward="false" selection-start-line="667" selection-start-column="8" selection-end-line="667" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/DealExpressHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+          <folding>
+            <marker date="1518072645841" expanded="false" signature="6:97" ph="..." />
+            <marker date="1518072645841" expanded="true" signature="119:6641" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="156:6639" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="211:261" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="568:710" ph="/// 返回解析 lambda后面的语句 ... " />
+            <marker date="1518072645841" expanded="true" signature="795:1956" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="1074:1851" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="1120:1404" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="1425:1837" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="2007:3079" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="2060:2196" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="2241:2331" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="2377:2469" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="2515:2701" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="2750:3009" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3026:3069" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3143:3201" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3273:3891" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3393:3452" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3485:3577" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3617:3779" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3796:3855" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="3957:4165" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="4233:5339" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="4549:4712" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="4835:5094" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="5111:5192" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="5204:5329" ph="/* return attribute.Length &gt; 0 ? attribute[0].ColumnName : exp.Member.Name; ... */" />
+            <marker date="1518072645841" expanded="true" signature="5398:6371" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="5436:6338" ph="{...}" />
+            <marker date="1518072645841" expanded="true" signature="6427:6633" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/app.config.transform">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlConnection.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlCommand.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlCommandBuilder.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4522">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.nuget/packages/mysql.data/6.10.6/contentFiles/any/netcoreapp2.0/docs/MySqlHelper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core/DbParam.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <marker date="1518080191735" expanded="true" signature="40:361" ph="{...}" />
+            <marker date="1518080191735" expanded="true" signature="67:359" ph="{...}" />
+            <marker date="1518080191735" expanded="true" signature="262:353" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Windy.Core.Test/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
+          <folding>
+            <marker date="1518080383478" expanded="false" signature="6:87" ph="..." />
+            <marker date="1518080383478" expanded="true" signature="114:1784" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="134:1301" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="180:1295" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="339:1285" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="537:697" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="819:1003" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="1324:1782" ph="{...}" />
+            <marker date="1518080383478" expanded="true" signature="1349:1398" ph="///  ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
